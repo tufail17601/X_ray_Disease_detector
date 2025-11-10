@@ -1,0 +1,1 @@
+AI-powered X-ray classification system that uses a VGG16-based CNN to detect and classify chest X-ray images into Normal, Pneumonia, or Tuberculosis. Built with TensorFlow and Streamlit, it provides an interactive interface to upload X-ray images and view real-time predictions along with confidence scores.”
